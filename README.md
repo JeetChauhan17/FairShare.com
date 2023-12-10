@@ -11,7 +11,7 @@ CodeCrafters**
 
 **Team Members :**
 
->> Jeet Chauhan
+>> Jeet Chauhan,
 >> Mihir Amin
 
 
