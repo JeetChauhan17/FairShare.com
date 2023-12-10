@@ -121,9 +121,6 @@ GitHub : "https://github.com/JeetChauhan17/FairShare.com"
 
 Project Prepared By:
 -->	Jeet Chauhan		(chauhanjj1999@gmail.com)
-	 Jeet Chauhan       : ( chauhanjj1999@gmail.com)
-	 Yashvi Dalsaniya   : (yashvi.p.dalsaniya@gmail.com)
-	 Dhvanil Shah       : (officialdhvanil007@gmail.com)
-	 Bilva Vyas         : (vyasbilva@gmail.com)
+-->	Mihir Amin		(aminmihir99@gmail.com)
 
 Team : "<CodeCrafters>"
