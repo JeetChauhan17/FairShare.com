@@ -79,8 +79,8 @@
                      }, 2000);
                   }
                   var password = document.getElementById("pass").value;
-                  var emails = [name];
-           localStorage.setItem("data", emails);	  		  
+                  var emails = [name,password];
+           localStorage.setItem("data", JSON.stringify(emails));	  		  
                }
             });
          });
