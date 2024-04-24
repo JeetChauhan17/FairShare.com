@@ -335,7 +335,12 @@
           </main>
         </div>
         <script>
-          document.getElementsByClassName("header-avatar-name")[0].innerHTML = localStorage.getItem("data");
+             var data = JSON.parse(localStorage.getItem("data")); 
+
+    if (data && data.length > 0) { 
+        document.getElementsByClassName("header-avatar-name")[0].innerHTML = data[0];
+    }
+          // document.getElementsByClassName("header-avatar-name")[0].innerHTML = localStorage.getItem("data");
         </script>
 </body>
 </html>
