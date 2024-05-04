@@ -121,6 +121,7 @@ GitHub : "https://github.com/JeetChauhan17/FairShare.com"
 
 Project Prepared By:
 -->	Jeet Chauhan		(chauhanjj1999@gmail.com)
+
 -->	Mihir Amin		(aminmihir99@gmail.com)
 
 Team : "<CodeCrafters>"
